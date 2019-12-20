@@ -13,5 +13,8 @@ public class Speaker {
     @Getter
     @Setter
     String firstName, lastName;
+    @Getter
+    @Setter
+    double seedNum;
 
 }
